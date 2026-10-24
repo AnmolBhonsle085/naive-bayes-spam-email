@@ -56,14 +56,12 @@ cd spam-email-classification-naive-bayes
 
 ### 3. Install the Required Library
 
-```bash
 pip install scikit-learn
 ```
 
 ### 4. Run the Python Script
 
-```bash
-python spam_classifier.py
+python naivebayes.py
 ```
 
 Ensure your Python script is named `spam_classifier.py`, or replace the filename with your actual script name.
