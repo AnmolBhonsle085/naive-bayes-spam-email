@@ -1,0 +1,7 @@
+Email: Win a free prize
+Actual label: Spam
+Predicted label: Spam
+
+Email: Meeting tomorrow
+Actual label: Not Spam
+Predicted label: Spam
