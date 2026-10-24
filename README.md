@@ -75,5 +75,3 @@ Ensure your Python script is named `spam_classifier.py`, or replace the filename
 ##  Author
 
 **ANMOL BHONSLE**
-
-Cybersecurity Enthusiast | Machine Learning Learner
