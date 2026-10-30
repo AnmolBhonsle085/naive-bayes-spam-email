@@ -17,7 +17,7 @@ X_train = [
 ]
 
 # 2. Correct labels
-Y_train = [
+y_train = [
     "Spam",
     "Spam",
     "Not Spam",
