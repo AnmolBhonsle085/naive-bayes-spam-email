@@ -5,7 +5,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import make_pipeline
 
 # 1. Training dataset
-emails = [
+X_train = [
     "Win money now",
     "Claim your free prize",
     "Meeting is scheduled for tomorrow",
@@ -17,7 +17,7 @@ emails = [
 ]
 
 # 2. Correct labels
-labels = [
+Y_train = [
     "Spam",
     "Spam",
     "Not Spam",
